@@ -21,6 +21,7 @@
 .product-img {
   width: 10.5rem;
   border-bottom: 1px solid black;
+  background-size: cover;
 }
 
 .title {

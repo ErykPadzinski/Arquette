@@ -39,12 +39,14 @@ header {
   list-style-type: none;
   transform: translateX(100%);
   transition: all 0.3s ease-in-out ;
+
   
 }
 
 #menu.active {
   transform: translateX(0);
   display: flex;
+  z-index: 10;
  
 
 }
